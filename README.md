@@ -47,7 +47,7 @@ IvozProvider is designed to work directly from the Internet. Although it can be 
 
 There are [several ways](https://irontec.github.io/ivozprovider/en/oasis/installation) to install IvozProvider.
 
-If you want to test an [standalone](https://irontec.github.io/ivozprovider/en/oasis/installation/install_types.html#standalone-install) installation, we recommend using one of auto-install CDs based on Debian Jessie 8.0 amd64.
+If you want to test an [standalone](https://irontec.github.io/ivozprovider/en/oasis/installation/install_types.html#standalone-install) installation, we recommend using one of auto-install CDs based on Debian Jessie 8.0 amd64. One of our clients, Fernando San Julián (https://github.com/manfer) has created [this installation demonstration](https://www.youtube.com/watch?v=Dy3M7X6Jw5w) of our ivozprovider oasis product using the Debian packages provided by Irontec.
 
 
 | Version  | 64 bits  | 32 bits |
